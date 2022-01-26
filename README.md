@@ -75,3 +75,32 @@ https://github.com/sentayehut/AirBnB_clone
 cd AirBnb_clone
 
 ```
+### Console
+This console works in interactive mode: 
+```shell $ ./console.py 
+         (hbnb) help 
+
+         Documented commands (type help <topic>): 
+   
+         ======================================== 
+
+         EOF help quit 
+
+         (hbnb) 
+         (hbnb) 
+         (hbnb) quit 
+         $ 
+``` 
+This console also works in non-interactive mode: 
+```shell $ ./console.py 
+         (hbnb) help 
+        
+         Documented commands (type help <topic>): 
+
+         ======================================== 
+      
+         EOF help quit 
+         (hbnb) 
+         (hbnb) 
+         (hbnb) quit $
+```
