@@ -76,6 +76,8 @@ cd AirBnb_clone
 
 ```
 ### Console
+The console is a command line interpreter that permits management of the backend of HolbertonBnB. 
+It can be used to handle and manipulate all classes utilized by the application (achieved by calls on the `storage` object defined above).
 This console works in interactive mode: 
 ```shell $ ./console.py 
          (hbnb) help 
@@ -104,3 +106,5 @@ This console also works in non-interactive mode:
          (hbnb) 
          (hbnb) quit $
 ```
+## Contributing
+
