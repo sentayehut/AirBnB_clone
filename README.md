@@ -107,5 +107,5 @@ This console also works in non-interactive mode:
          (hbnb) quit $
 ```
 ## Authors :memo:
-- **Mentesinot Tegegn Taye **  <[Mentesinot](https://github.com/Mentesinot)>
-- **Sentayehu Tilahun Adamu ** <[Sentayehut](https://github.com/sentayehut)>     
+- **Mentesinot Tegegn Taye**  <[Mentesinot](https://github.com/Mentesinot)>
+- **Sentayehu Tilahun Adamu** <[Sentayehut](https://github.com/sentayehut)>     
