@@ -1,5 +1,4 @@
 # AirBnB_clone
-
 ![This is an image](https://camo.githubusercontent.com/a8cd2eef2325c425519095dc2501111e630a77eddb454938c527cb82ea9c3aeb/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6869676865722d6c6576656c5f70726f6772616d6d696e672b2f3236332f4842544e2d68626e622d46696e616c2e706e67)
 
 ## Description :desktop_computer:
@@ -58,3 +57,21 @@ For this project, you will create unit tests, not doctest:
 - What is *args and how to use it 
 - What is **kwargs and how to use it 
 - How to handle named arguments in a function
+## Project Breakdown
+
+## Getting Started
+
+### Installation
+To use this project:
+1. Clone
+
+```
+https://github.com/sentayehut/AirBnB_clone
+
+``` 
+2. On your machine, navigate (`cd`) to the newly created directory 
+
+``` 
+cd AirBnb_clone
+
+```
