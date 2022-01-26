@@ -45,11 +45,16 @@ For this project, you will create unit tests, not doctest:
 - All your classes should have a documentation (`python3 -c 'print(__import__("my_module").MyClass.__doc__)'`) 
 - All your functions (inside and outside a class) should have a documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)'` and `python3 -c 
 'print(__import__("my_module").MyClass.my_function.__doc__)'`) 
-- We strongly encourage you to work together on 
-test cases, so that you don't miss any edge case
+- We strongly encourage you to work together on test cases, so that you don't miss any edge case
 ### What students should learn from this project
 - At the end of this project students are expected to be able to explain to anyone, without the help of Google: 
-- How to create a Python package - How to create a command interpreter in Python using the cmd module - What is 
-Unit testing and how to implement it in a large project - How to serialize and deserialize a Class - How to 
-write and read a JSON file - How to manage datetime - What is an UUID - What is *args and how to use it - What 
-is **kwargs and how to use it - How to handle named arguments in a function
+- How to create a Python package 
+- How to create a command interpreter in Python using the cmd module 
+- What is Unit testing and how to implement it in a large project 
+- How to serialize and deserialize a Class 
+- How to write and read a JSON file 
+- How to manage datetime 
+- What is an UUID 
+- What is *args and how to use it 
+- What is **kwargs and how to use it 
+- How to handle named arguments in a function
