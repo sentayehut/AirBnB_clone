@@ -1,3 +1,8 @@
+/*
+ * === Places class style ===
+ */
+
+/* Places flexbox */
 .container .places {
   display: flex;
   flex-wrap: wrap;
